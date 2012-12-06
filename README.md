@@ -1,4 +1,4 @@
-khmer_tube
+Khmer Tube
 ==========
 
 Simple use of Youtube as a video stroage:
